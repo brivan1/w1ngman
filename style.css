@@ -1,5 +1,24 @@
 h1{
     color:aqua;
     background-color: black;
-    padding: 15px;
+    padding: 20px;
+    text-align: center;
 }
+  #mantra{
+     color:white;
+     background-color:rgb(37, 92, 194);
+     padding:10px;
+}  
+  #art{
+      color: rgb(19, 9, 117);
+      background-color:rgb(131, 123, 125);
+      padding: 15px;
+  }
+  p{
+     color:black;
+     font-family: sans-serif;
+     font-size: 18px;
+     font-weight: bold;
+     background-color: darkcyan;
+  }
+  

@@ -1,17 +1,17 @@
 h1{
     color:aqua;
-    background-color: black;
+    background-color: rgb(15, 3, 71);
     padding: 20px;
     text-align: center;
 }
   #mantra{
-     color:white;
-     background-color:rgb(37, 92, 194);
+     color:rgb(19, 9, 117);
+     background-color:transparent;
      padding:10px;
 }  
   #art{
       color: rgb(19, 9, 117);
-      background-color:rgb(131, 123, 125);
+      background-color:transparent;
       padding: 15px;
   }
   p{
@@ -19,6 +19,29 @@ h1{
      font-family: sans-serif;
      font-size: 18px;
      font-weight: bold;
-     background-color: darkcyan;
+     background-color: transparent;
   }
+  #caution{
+    color: rgb(236, 17, 10);
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Impact;
+    background-color: lawngreen;
+  }
+  #caution>p{
+    background-color: transparent;
+  }
+  #caution>ul{
+    color: black;
+  }
+  div{
+    color: crimson;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  body{
+    background-color:orange;
+  }
+  
   
